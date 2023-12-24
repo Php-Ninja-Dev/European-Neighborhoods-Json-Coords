@@ -1,0 +1,25 @@
+{
+  "valencia": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[["-0.376288", "39.46975"], ["-0.376278", "39.469889"], ["-0.376129", "39.470037"], ["-0.375939", "39.47003"]]]
+      },
+      "properties": {
+        "name": "Ciutat Vella"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[["-0.350345", "39.460707"], ["-0.350307", "39.460849"], ["-0.350124", "39.460883"], ["-0.349955", "39.460834"]]]
+      },
+      "properties": {
+        "name": "Eixample"
+      }
+    }
+    // Additional neighborhoods would follow in a similar structure
+  ]
+}
