@@ -19,7 +19,16 @@
       "properties": {
         "name": "Eixample"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -0.350345, 39.482706 ], [ -0.351307, 39.483849 ], [ -0.349124, 39.481883 ], [ -0.347955, 39.482834 ]]]
+      },
+      "properties": {
+        "name": "Benimaclet"
+      }
     }
-    // Additional neighborhoods would follow in a similar structure
   ]
 }

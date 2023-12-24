@@ -1,7 +1,62 @@
 [
-    {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[43.2627, -2.92528],[43.2645, -2.92349],[43.2629, -2.92173],[43.2604, -2.92095],[43.2593, -2.92432]]]},"properties":{"name":"Abando"}},
-    {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[43.2503, -2.92724],[43.2498, -2.92535],[43.2482, -2.92678],[43.2501, -2.92865]]]},"properties":{"name":"Bego\u00f1a"}},
-    {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[43.2565, -2.91317],[43.2578, -2.91189],[43.2560, -2.91062],[43.2547, -2.9119]]]},"properties":{"name":"Deusto"}},
-    {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[43.2590, -2.95030],[43.2600, -2.94910],[43.2580, -2.94750],[43.2570, -2.94890]]]},"properties":{"name":"Ibarrekolanda"}},
-    {"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[43.2730, -2.96020],[43.2741, -2.9589],[43.2721, -2.9571],[43.2710, -2.9584]]]},"properties":{"name":"San Inazio"}}
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[43.2627, -2.92528], [43.2645, -2.92349], [43.2629, -2.92173], [43.2604, -2.92095], [43.2593, -2.92432]]]}
+    },
+    "properties": {
+      "name": "Abando"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[43.2503, -2.92724], [43.2498, -2.92535], [43.2482, -2.92678], [43.2501, -2.92865]]]}
+    },
+    "properties": {
+      "name": "Bego\u00f1a"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[43.2565, -2.91317], [43.2578, -2.91189], [43.256, -2.91062], [43.2547, -2.9119]]]}
+    },
+    "properties": {
+      "name": "Deusto"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[43.259, -2.9503], [43.26, -2.9491], [43.258, -2.9475], [43.257, -2.9489]]]}
+    },
+    "properties": {
+      "name": "Ibarrekolanda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[43.273, -2.9602], [43.2741, -2.9589], [43.2721, -2.9571], [43.271, -2.9584]]]}
+    },
+    "properties": {
+      "name": "San Inazio"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [[[ 43.2563, -2.92428 ], [ 43.2581, -2.92249 ], [ 43.2550, -2.92073 ], [ 43.2532, -2.92595 ]]]
+    },
+    "properties": {
+      "name": "Casco Viejo"
+    }
+  }
 ]
