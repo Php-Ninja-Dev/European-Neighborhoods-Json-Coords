@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.3738189, 48.2081743]
+      },
+      "properties": {
+        "name": "Innere Stadt"
+      }
+    }
+  ]
+}
